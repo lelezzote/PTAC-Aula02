@@ -12,3 +12,12 @@ export default function App() {
 
 
 }
+
+import Footer from "./components/Footer";
+export default function App() {
+  return(  
+  <main>
+  <Footer/>
+  </main>
+  )
+}
