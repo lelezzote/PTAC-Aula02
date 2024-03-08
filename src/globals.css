@@ -3,3 +3,6 @@ header{
     background-color: rgb(115, 115, 145);
     border-bottom: 2px blueviolet solid;   
 }
+li{
+    background-color: aqua;
+}
