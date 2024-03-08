@@ -2,8 +2,12 @@ export default function Header(){
   
     return(
         <header>
-            <h1>LOJA</h1>
-            
+            <div>
+            <img id="logo" src="D:\Bibliotecas\Downloads\github-logo.png"/>
+            </div>
+            <ul>
+                <li>portugues</li>
+            </ul>
       </header>
     );
 }
