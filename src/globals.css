@@ -1,11 +1,38 @@
 header{
-    height: 100px;
+    height: 60px;
     background-color: rgb(115, 115, 145);
-    border-bottom: 2px blueviolet solid;   
+    border-bottom: 2px blueviolet solid;  
 }
 
-
-
-li{
-    background-color: aqua;
+footer{
+    position: fixed;
+    bottom:0;
+    left: 0;
 }
+
+#logo{
+   width: 32px;
+   height:30px;
+}
+
+.navbar-menu{
+    display: flex;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding-left: 100px;
+}
+
+.navbar-menu li {
+    cursor: pointer;
+    padding:5px 10px;
+    list-style: none;
+  }
+
+
+  li{
+    color: black;
+    margin-top:-3px;
+  }
+
+li:hover{
+    color: #C0C0C0;
+  }
