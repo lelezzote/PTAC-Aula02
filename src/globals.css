@@ -1,7 +1,10 @@
 header{
     height: 60px;
-    background-color: rgb(115, 115, 145);
-    border-bottom: 2px blueviolet solid;  
+    background-color: rgb(0, 0, 0);  
+}
+
+body{
+  margin: 0 auto;
 }
 
 footer{
@@ -29,10 +32,11 @@ footer{
 
 
   li{
-    color: black;
-    margin-top:-3px;
+    color: #fff;
+    margin-top:-32px;
   }
 
 li:hover{
     color: #C0C0C0;
   }
+
