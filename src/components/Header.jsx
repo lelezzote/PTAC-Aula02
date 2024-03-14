@@ -11,6 +11,9 @@ export default function Header(){
                 <li>Pricing</li>
             </ul>
             </div>
+            <div class="input-type">
+            <input class="pesquisar" placeholder="Search or jump to..."/>
+            </div>
             <div>
                 <ul class="menu-sign">
                     <li>Sign in</li>
