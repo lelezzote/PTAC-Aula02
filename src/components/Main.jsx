@@ -5,7 +5,6 @@ export default function Main(){
     const [telefone, setTelefone] = useState("");
     return(
     <main>
-        <div>
         <form class="formulario">
             <div id="form-nome">
             <label class="label">Nome:</label>
@@ -21,12 +20,12 @@ export default function Main(){
          
 
         {nome}
+        {telefone}
 
          
 
         
         </form>
-        </div>
     </main>
 
     )
