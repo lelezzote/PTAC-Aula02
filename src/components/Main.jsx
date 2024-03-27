@@ -15,9 +15,9 @@ export default function Main(){
         <input type="text" name="set-telefone" id="telefone" value={telefone} onChange={ (event) => setTelefone(event.target.value)}/>
         </div>
          
-         <div id="botao">
+         
          <button id="button" class="button-form">SALVAR</button>
-         </div>
+        
 
         {nome}
         {telefone}
