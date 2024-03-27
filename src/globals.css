@@ -135,16 +135,16 @@ margin-top: -15px;
   font-size: 17px;
   background-color: black;
   margin-top: 35px;
-  margin-left: 30px; 
+  margin-left: 120px; 
   }
 
   .formulario{
     background-color: grey;
     border: 4px solid #A9A9A9;
     border-radius: 20px;
-    width: 450px;
+    width: 400px;
     height: 300px;
-    margin-left: 470px;
+    margin-left: 510px;
     margin-top: 40px;
   }
 
@@ -154,6 +154,6 @@ margin-top: -15px;
   }
 
   #form-tel{
-    margin-top: 30px;
-    margin-left: 70px;
+    margin-top: 35px;
+    margin-left: 45px;
   }
